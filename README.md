@@ -20,8 +20,8 @@ Arquitectura Pro: Es una distribución nativa .dmg con compilación automática 
 ⚖️ Aviso Legal y Propiedad Intelectual
 Este repositorio es solo para que vean cómo trabajo y lo que puedo construir como Technical Leader.
 
-El código fuente es PRIVADO y es de mi propiedad exclusiva (Juan Carlos Pavon Abrego).
+El código fuente es PRIVADO y es de mi propiedad exclusiva (Teocalli px7 s.a de c.v & Faiiryz).
 
-No permito que copien mi arquitectura, ni que le hagan ingeniería inversa al .dmg.
+No se permite que copien arquitectura, ni que le hagan ingeniería inversa al .dmg.
 
-Si quieres ver cómo funciona en vivo o hablar de negocios, mándame un mensaje directo.
+ver cómo funciona en vivo o hablar de negocios, mándame un mensaje directo.
