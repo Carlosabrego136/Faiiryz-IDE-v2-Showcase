@@ -14,8 +14,8 @@ Simuladores: Tengo vistas en tiempo real para Chrome, iOS y Android directamente
 
 Arquitectura Pro: Es una distribución nativa .dmg con compilación automática por GitHub Actions.
 
-📸 Galería del Proyecto
-(Aquí subes tus fotos a la carpeta screenshots y cambias el nombre abajo)
+
+
 
 ⚖️ Aviso Legal y Propiedad Intelectual
 Este repositorio es solo para que vean cómo trabajo y lo que puedo construir como Technical Leader.
@@ -25,10 +25,3 @@ El código fuente es PRIVADO y es de mi propiedad exclusiva (Juan Carlos Pavon A
 No permito que copien mi arquitectura, ni que le hagan ingeniería inversa al .dmg.
 
 Si quieres ver cómo funciona en vivo o hablar de negocios, mándame un mensaje directo.
-
-💡 Pasos finales para que quede listo:
-Edita el README: Borra todo lo que tiene tu repo público y pega este texto.
-
-Nombres de las fotos: En el texto puse CAPTURA_INICIO.png y CAPTURA_WOOW.png. Asegúrate de que las fotos que subas a la carpeta screenshots se llamen exactamente así (o cambia el nombre en el texto del README para que coincidan).
-
-Guarda los cambios: Dale al botón verde de Commit changes.
